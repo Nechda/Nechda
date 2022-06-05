@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Dmitry Nechitaev! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center">Hi, I am Dmitry Nechitaev! :wave: </h1>
 <h3 align="center">
 <g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>
 MIPT Student | Compiler developer
