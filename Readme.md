@@ -5,7 +5,7 @@ MIPT Student | Compiler developer
 <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>
 </h3>
 
-<h3 align="center">I am currently 3rd MIPT student (Moscow Institute of Physics and Technology) </h3> 
+<h3 align="center">I am currently 4th MIPT student (Moscow Institute of Physics and Technology) </h3> 
 
 # General
  - :hammer_and_wrench: Langs :
