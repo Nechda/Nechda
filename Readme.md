@@ -1,32 +1,43 @@
 <h1 align="center">Hi, I am Dmitry Nechitaev! :wave: </h1>
+
+# :mortar_board: Education 
 <h3 align="center">
-<g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>
-MIPT Student | Compiler developer
-<g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>
+I have a bachelor's degree from MIPT in applied mathematics and physics.
 </h3>
 
-<h3 align="center">I am currently 4th MIPT student (Moscow Institute of Physics and Technology) </h3> 
+<h6 align="right">
+MIPT — Moscow Institute of Physics and Technology, GPA - 9.3/10
+</h6>
 
-# General
- - :hammer_and_wrench: Langs :
+# :microscope: Interests
+Optimization algorithms, system programming, computing on GPU.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+# :hammer_and_wrench: Stack
+:hammer: Langs
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-- :gear: Libraries & Tools :
+:gear: Libraries & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![llvm](https://img.shields.io/badge/-llvm-090909.svg?style=for-the-badge&logo=llvm&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![gdb](https://img.shields.io/badge/-GDB-FFF.svg?style=for-the-badge&logo=gnu&logoColor=blue)
 
 
- - :microscope: Interests :
-  Optimization algorithms, system programming, computing on GPU.
+<details>
+<summary>Also had experience with</summary>
+<br>
+<img align="center" src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask"/>
+<img align="center" src="https://img.shields.io/badge/SQLAlchemy-F00?style=for-the-badge&logo=sql-alchemy"/>
+<img align="center" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
+<img align="center" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img align="center" src="https://shields.microej.com/badge/cuDNN-000?style=for-the-badge&logo=NVIDIA"/>
+</details>
 
 # Projects
 Here a list of main projects:
@@ -37,4 +48,5 @@ Here a list of main projects:
 <h1 align="center"></h1>
  <p align="center">
     <a href = "mailto: nechda6@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href = "https://www.linkedin.com/in/nechda/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
